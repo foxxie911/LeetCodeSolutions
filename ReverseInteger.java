@@ -1,9 +1,6 @@
 package org.foxxie911.ReverseInteger;
 
 class Solution{
-
-    public Solution(){}
-
     public int reverse(Integer x) {
         int reversedX = 0;
         while (x != 0) {
